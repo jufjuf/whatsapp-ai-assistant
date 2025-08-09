@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+conversations.db
+whatsapp_assistant.log
+assistant.log
+*.tar.gz
+
+# Browser screenshots
+.browser_screenshots/
+
+# Temporary files
+.X0-lock
+uv-setuptools-*.lock
+openhands_port_locks/
+
+# WordPress (not needed for this project)
+wordpress/
+
+# Test project (ChunkHound test data)
+test_project/
